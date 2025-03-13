@@ -13,3 +13,5 @@ If you're a IntelliJ user, it's available in the IDE's Plugin Hub. Do try it out
 - License : MIT
 - Date : 12th March, 2025
 - Place : Mumbai, Maharashtra, India
+
+<img width="1280" alt="Screenshot 2025-03-13 at 23 07 12" src="https://github.com/user-attachments/assets/e8b4991d-1d3d-434e-b659-5e64a87ec7e3" />
