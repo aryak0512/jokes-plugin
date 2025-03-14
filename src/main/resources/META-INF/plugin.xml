@@ -2,13 +2,13 @@
 <idea-plugin>
 
     <id>org.aryak.demo</id>
-    <name>ShitJokes</name>
+    <name>FunJokes</name>
     <vendor email="mailmearyak@gmail.com" url="https://google.com">Aryak</vendor>
     <description><![CDATA[
-    Hey this is just for fun<br>
-    <em>most HTML tags may be used</em>
-  ]]></description>
-
+    🎉 A fun IntelliJ IDEA plugin that displays a random programming joke!
+    Click on the plugin action to get a joke and brighten your coding session.
+    Have fun and keep coding! 😃
+]]></description>
 
     <!-- Product and plugin compatibility requirements.
          Read more: https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
